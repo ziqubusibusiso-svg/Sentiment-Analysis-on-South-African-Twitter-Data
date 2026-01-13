@@ -1,2 +1,8 @@
 # Sentiment-Analysis-on-South-African-Twitter-Data
-Predicting Xenophobic Attacks: Sentiment Analysis on South African Twitter Data
+This project investigates the role of Twitter in shaping online communication since its launch in 2006, with particular attention to its influence in political and corporate discourse and its potential to facilitate the spread of hate speech. The study focuses on xenophobic content within South African Twitter conversations, highlighting the need for automated offensive language and sentiment detection.
+
+Using machine learning techniques, the project implements a Support Vector Classification (SVC) model combined with TF-IDF feature extraction to classify tweets into negative, positive, and neutral sentiment categories. The results indicate a strong prevalence of negative sentiment in discussions related to xenophobia. Temporal analysis further reveals shifts in narrative intensity over time.
+
+Key thematic patterns are identified through word cloud visualization and frequent word analysis, with prominent terms such as “foreigners” and “immigrants” emerging as central to the discourse. The model achieves an overall accuracy of 61%, demonstrating strong performance in detecting negative sentiment while highlighting limitations in distinguishing positive and neutral classes.
+
+This repository contributes to a deeper understanding of xenophobic sentiment on social media and emphasizes the importance of continuous model refinement and advanced natural language processing techniques. The proposed automated approach shows potential for applications in social media monitoring, sentiment analysis, and content moderation, supporting efforts to promote safer and more inclusive online environments.
